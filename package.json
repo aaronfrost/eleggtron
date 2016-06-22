@@ -1,0 +1,25 @@
+{
+  "name": "eleggtron",
+  "version": "1.0.0",
+  "description": "This is the content for Aaron Frost's Egghead.io course on Electronjs. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronfrost/eleggtron.git"
+  },
+  "keywords": [
+    "egghead",
+    "eggheadio",
+    "electron",
+    "electronjs"
+  ],
+  "author": "Aaron Frost <aaronfrost@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronfrost/eleggtron/issues"
+  },
+  "homepage": "https://github.com/aaronfrost/eleggtron#readme"
+}
